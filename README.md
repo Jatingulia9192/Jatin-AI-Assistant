@@ -1,6 +1,10 @@
 
 # Jatin AI Assistant 🤖
 
+## 🚀 Live Demo
+
+Try the app here: [Jatin AI Assistant](https://jatin-ai-assistant.streamlit.app/)
+
 A personal AI assistant built with Python, Streamlit, and Groq API.
 
 ## Features
@@ -19,6 +23,7 @@ A personal AI assistant built with Python, Streamlit, and Groq API.
 - Groq API
 - PyPDF
 - Scikit-learn
+
 
 ## Installation
 
